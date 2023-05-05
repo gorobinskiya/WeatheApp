@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dayFragment"
+        android:icon="@drawable/ic_today_foreground"
+        android:title="Сьогодні" />
+    <item
+        android:id="@+id/weekFragment"
+        android:icon="@drawable/ic_week_foreground"
+        android:title="Тиждень" />
+</menu>
