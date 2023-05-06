@@ -10,5 +10,6 @@
     <color name="bottom_nav">#72B3B3</color>
     <color name="bottom_nav_selected_item">#112727</color>
     <color name="bottom_nav_item">#637575</color>
+    <color name="background_color">#D3DFEB</color>
 
 </resources>

@@ -5,9 +5,9 @@
     <item
         android:id="@+id/dayFragment"
         android:icon="@drawable/ic_today_foreground"
-        android:title="Сьогодні" />
+        android:title="Today" />
     <item
         android:id="@+id/weekFragment"
         android:icon="@drawable/ic_week_foreground"
-        android:title="Тиждень" />
+        android:title="Week" />
 </menu>

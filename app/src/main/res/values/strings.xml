@@ -2,4 +2,14 @@
     <string name="app_name">WeatheApp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_city">Select city</string>
+    <string name="cancel">cancel</string>
+    <string name="date">date</string>
+    <string name="min_temp">min:</string>
+    <string name="max_temp">max:</string>
+    <string name="choose_city">Choose city</string>
+    <string name="_0">0</string>
+    <string name="c">°C</string>
+    <string name="pressure">pressure:</string>
+    <string name="wind_speed">wind speed:</string>
 </resources>
